@@ -29,6 +29,8 @@ To prepare the attack simulation scripts for execution, I updated their permissi
 
 bash
 chmod u+x attack-a attack-b attack-c
+![Screenshot 2025-06-21 at 6 25 49 PM](https://github.com/user-attachments/assets/765d1441-44cd-43cf-b24d-0ee24c57f70a)
+
 
 ### Step 3: Create Audit Rules for File Monitoring
 
